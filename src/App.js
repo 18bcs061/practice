@@ -3,11 +3,12 @@ import "./App.css";
 import { incNumber } from "./actions/index";
 import { decNumber } from "./actions/index";
 
-console.log("BSDK");
+
 
 import { useSelector, useDispatch } from "react-redux";
 
 console.log("hello all")
+console.log("ok all")
 
 const App = () => {
   // it alternative to the useContext hooks in react / consumer from context API
