@@ -8,6 +8,7 @@ import { decNumber } from "./actions/index";
 import { useSelector, useDispatch } from "react-redux";
 
 console.log("hello all")
+console.log("this is should also be merged")
 console.log("ok all")
 
 const App = () => {
