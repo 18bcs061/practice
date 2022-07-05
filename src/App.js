@@ -6,7 +6,7 @@ console.log('hello all')
 console.log("this should also be present")
 import { useSelector, useDispatch } from "react-redux";
 
-console.log("BSDK..")
+console.log("hello all")
 
 const App = () => {
   // it alternative to the useContext hooks in react / consumer from context API
