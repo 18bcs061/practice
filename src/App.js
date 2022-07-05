@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import { incNumber } from "./actions/index";
 import { decNumber } from "./actions/index";
-console.log('now all things run ok')
+console.log('hello all')
 import { useSelector, useDispatch } from "react-redux";
 
 const App = () => {
