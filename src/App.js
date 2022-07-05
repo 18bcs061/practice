@@ -7,6 +7,8 @@ console.log("BSDK");
 
 import { useSelector, useDispatch } from "react-redux";
 
+console.log("BSDK..")
+
 const App = () => {
   // it alternative to the useContext hooks in react / consumer from context API
   const mystate = useSelector((state) => state.changeTheNumber);
