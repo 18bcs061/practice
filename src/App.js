@@ -7,7 +7,13 @@ import { decNumber } from "./actions/index";
 
 import { useSelector, useDispatch } from "react-redux";
 
+<<<<<<< HEAD
 console.log('nice')
+=======
+console.log("hello all")
+console.log("this is should also be merged")
+console.log("ok all")
+>>>>>>> f56bf644330997f8be8160f475214afc13f1d584
 
 const App = () => {
   // it alternative to the useContext hooks in react / consumer from context API
